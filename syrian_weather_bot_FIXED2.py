@@ -20,7 +20,7 @@ from telegram.error import BadRequest
 # ============================================================
 # 1) توكن البوت الخاص بك وتحديد التوقيت (GMT+3)
 # ============================================================
-BOT_TOKEN = "866338521:AAH0gFpsrGG5ifBY9g48vaAUywBwd1J_RrQ"
+BOT_TOKEN = "8663638521:AAH6YFb20Vbu0rllOD6gLcBx5xmGJdX0eno"
 TZ_GMT3 = timezone(timedelta(hours=3))  # توقيت غرينتش +3
 
 # ============================================================
